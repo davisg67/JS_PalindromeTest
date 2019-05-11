@@ -1,3 +1,4 @@
+"use strict";
 
 function btnClick1() {
     let str, inputField;
